@@ -2,7 +2,7 @@ Resume & Applicant tracking
 
 Project Walkthrough
 
-The React application will be designed specifically to bypass ATS filters while providing you with applicant tracking for all your applications
+The React application will be designed specifically to bypass ATS (Applicant Tracking System) filters while providing you with applicant tracking for all your applications
 
 
 Key Features
